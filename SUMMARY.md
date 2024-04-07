@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🚀 Welcome to Bootcamp!](README.md)
-* [🛠 Logistics](logistics/README.md)
+* [🛠️ Logistics](logistics/README.md)
   * [Course Schedules](logistics/course-schedules.md)
   * [Course Methodology](logistics/course-methodology.md)
   * [Required Software](logistics/required-software.md)
@@ -28,7 +28,7 @@
     * [0.5.1: Node Modules](0-foundations/0.5-node.js/0.5.1-node-modules.md)
     * [0.5.2: NPM](0-foundations/0.5-node.js/0.5.2-npm.md)
     * [0.5.3: Nodemon](0-foundations/0.5-node.js/0.5.3-nodemon.md)
-* [🖼 1: Frontend](1-frontend/README.md)
+* [🖼️ 1: Frontend](1-frontend/README.md)
   * [1.1: HTML](1-frontend/1.1-html.md)
   * [1.2: CSS](1-frontend/1.2-css/README.md)
     * [1.2.1: Layout](1-frontend/1.2-css/1.2.1-layout.md)
@@ -92,7 +92,7 @@
     * [3.E.5: Carousell Schema Design](3-backend/3.e-exercises/3.e.5-carousell-schema-design.md)
     * [3.E.6: Carousell Auth](3-backend/3.e-exercises/3.e.6-carousell-auth.md)
   * [3.P: Full-Stack App (Express)](3-backend/3.p-full-stack-app-express.md)
-* [🏞 4: Capstone](4-capstone/README.md)
+* [🏞️ 4: Capstone](4-capstone/README.md)
   * [4.1: Testing](4-capstone/4.1-testing.md)
     * [4.1.1: Frontend React Testing](4-capstone/4.1-testing/4.1.1-frontend-react-testing.md)
     * [4.1.2: Backend Expressjs Testing](4-capstone/4.1-testing/4.1.2-backend-expressjs-testing.md)
@@ -124,4 +124,3 @@
   * [IP.1: Job Application Strategy](interview-prep/ip.1-job-application-strategy.md)
   * [IP.2: Resume](interview-prep/ip.2-resume.md)
   * [IP.3: Portfolio](interview-prep/ip.3-portfolio.md)
-  * [IP.4: Job List](interview-prep/ip.4-job-list.md)
